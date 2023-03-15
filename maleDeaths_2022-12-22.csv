@@ -1,0 +1,172 @@
+areaCode,areaName,areaType,date,age,rate,value
+E12000001,North East,region,2022-12-19,0_to_4,0.0,0
+E12000001,North East,region,2022-12-19,5_to_9,0.0,0
+E12000001,North East,region,2022-12-19,10_to_14,1.3,1
+E12000001,North East,region,2022-12-19,15_to_19,4.0,3
+E12000001,North East,region,2022-12-19,20_to_24,4.4,4
+E12000001,North East,region,2022-12-19,25_to_29,7.6,7
+E12000001,North East,region,2022-12-19,30_to_34,12.9,11
+E12000001,North East,region,2022-12-19,35_to_39,26.6,21
+E12000001,North East,region,2022-12-19,40_to_44,52.5,38
+E12000001,North East,region,2022-12-19,45_to_49,67.2,53
+E12000001,North East,region,2022-12-19,50_to_54,91.2,81
+E12000001,North East,region,2022-12-19,55_to_59,155.5,145
+E12000001,North East,region,2022-12-19,60_to_64,189.1,159
+E12000001,North East,region,2022-12-19,65_to_69,596.3,431
+E12000001,North East,region,2022-12-19,70_to_74,881.1,622
+E12000001,North East,region,2022-12-19,75_to_79,1727.8,808
+E12000001,North East,region,2022-12-19,80_to_84,3098.1,998
+E12000001,North East,region,2022-12-19,85_to_89,5953.5,1034
+E12000001,North East,region,2022-12-19,90+,10527.8,764
+E12000002,North West,region,2022-12-19,0_to_4,0.9,2
+E12000002,North West,region,2022-12-19,5_to_9,0.0,0
+E12000002,North West,region,2022-12-19,10_to_14,0.0,0
+E12000002,North West,region,2022-12-19,15_to_19,1.0,2
+E12000002,North West,region,2022-12-19,20_to_24,5.1,12
+E12000002,North West,region,2022-12-19,25_to_29,7.5,19
+E12000002,North West,region,2022-12-19,30_to_34,14.3,35
+E12000002,North West,region,2022-12-19,35_to_39,29.0,67
+E12000002,North West,region,2022-12-19,40_to_44,52.5,110
+E12000002,North West,region,2022-12-19,45_to_49,83.3,189
+E12000002,North West,region,2022-12-19,50_to_54,135.2,338
+E12000002,North West,region,2022-12-19,55_to_59,240.0,592
+E12000002,North West,region,2022-12-19,60_to_64,310.2,657
+E12000002,North West,region,2022-12-19,65_to_69,725.9,1328
+E12000002,North West,region,2022-12-19,70_to_74,982.1,1797
+E12000002,North West,region,2022-12-19,75_to_79,1926.7,2389
+E12000002,North West,region,2022-12-19,80_to_84,3445.1,2888
+E12000002,North West,region,2022-12-19,85_to_89,6169.2,2707
+E12000002,North West,region,2022-12-19,90+,10325.2,2102
+E12000003,Yorkshire and The Humber,region,2022-12-19,0_to_4,1.3,2
+E12000003,Yorkshire and The Humber,region,2022-12-19,5_to_9,1.1,2
+E12000003,Yorkshire and The Humber,region,2022-12-19,10_to_14,0.6,1
+E12000003,Yorkshire and The Humber,region,2022-12-19,15_to_19,5.0,8
+E12000003,Yorkshire and The Humber,region,2022-12-19,20_to_24,3.7,7
+E12000003,Yorkshire and The Humber,region,2022-12-19,25_to_29,8.3,16
+E12000003,Yorkshire and The Humber,region,2022-12-19,30_to_34,14.0,25
+E12000003,Yorkshire and The Humber,region,2022-12-19,35_to_39,25.0,42
+E12000003,Yorkshire and The Humber,region,2022-12-19,40_to_44,49.7,78
+E12000003,Yorkshire and The Humber,region,2022-12-19,45_to_49,61.8,106
+E12000003,Yorkshire and The Humber,region,2022-12-19,50_to_54,111.2,208
+E12000003,Yorkshire and The Humber,region,2022-12-19,55_to_59,164.0,301
+E12000003,Yorkshire and The Humber,region,2022-12-19,60_to_64,224.3,356
+E12000003,Yorkshire and The Humber,region,2022-12-19,65_to_69,554.4,764
+E12000003,Yorkshire and The Humber,region,2022-12-19,70_to_74,861.6,1171
+E12000003,Yorkshire and The Humber,region,2022-12-19,75_to_79,1648.1,1512
+E12000003,Yorkshire and The Humber,region,2022-12-19,80_to_84,2870.3,1813
+E12000003,Yorkshire and The Humber,region,2022-12-19,85_to_89,5359.0,1816
+E12000003,Yorkshire and The Humber,region,2022-12-19,90+,10806.0,1582
+E12000004,East Midlands,region,2022-12-19,0_to_4,1.5,2
+E12000004,East Midlands,region,2022-12-19,5_to_9,0.7,1
+E12000004,East Midlands,region,2022-12-19,10_to_14,0.7,1
+E12000004,East Midlands,region,2022-12-19,15_to_19,3.5,5
+E12000004,East Midlands,region,2022-12-19,20_to_24,6.7,11
+E12000004,East Midlands,region,2022-12-19,25_to_29,5.6,9
+E12000004,East Midlands,region,2022-12-19,30_to_34,13.4,20
+E12000004,East Midlands,region,2022-12-19,35_to_39,37.3,54
+E12000004,East Midlands,region,2022-12-19,40_to_44,39.0,54
+E12000004,East Midlands,region,2022-12-19,45_to_49,75.2,116
+E12000004,East Midlands,region,2022-12-19,50_to_54,103.7,175
+E12000004,East Midlands,region,2022-12-19,55_to_59,171.6,286
+E12000004,East Midlands,region,2022-12-19,60_to_64,254.1,360
+E12000004,East Midlands,region,2022-12-19,65_to_69,555.3,701
+E12000004,East Midlands,region,2022-12-19,70_to_74,764.7,972
+E12000004,East Midlands,region,2022-12-19,75_to_79,1539.2,1355
+E12000004,East Midlands,region,2022-12-19,80_to_84,2839.6,1628
+E12000004,East Midlands,region,2022-12-19,85_to_89,5419.5,1691
+E12000004,East Midlands,region,2022-12-19,90+,11029.4,1514
+E12000005,West Midlands,region,2022-12-19,0_to_4,0.0,0
+E12000005,West Midlands,region,2022-12-19,5_to_9,0.5,1
+E12000005,West Midlands,region,2022-12-19,10_to_14,1.1,2
+E12000005,West Midlands,region,2022-12-19,15_to_19,6.2,11
+E12000005,West Midlands,region,2022-12-19,20_to_24,7.5,15
+E12000005,West Midlands,region,2022-12-19,25_to_29,8.1,17
+E12000005,West Midlands,region,2022-12-19,30_to_34,15.1,30
+E12000005,West Midlands,region,2022-12-19,35_to_39,33.5,62
+E12000005,West Midlands,region,2022-12-19,40_to_44,57.3,98
+E12000005,West Midlands,region,2022-12-19,45_to_49,89.6,166
+E12000005,West Midlands,region,2022-12-19,50_to_54,115.6,231
+E12000005,West Midlands,region,2022-12-19,55_to_59,199.8,384
+E12000005,West Midlands,region,2022-12-19,60_to_64,285.7,461
+E12000005,West Midlands,region,2022-12-19,65_to_69,680.8,974
+E12000005,West Midlands,region,2022-12-19,70_to_74,848.5,1191
+E12000005,West Midlands,region,2022-12-19,75_to_79,1660.2,1724
+E12000005,West Midlands,region,2022-12-19,80_to_84,3042.5,2123
+E12000005,West Midlands,region,2022-12-19,85_to_89,5685.1,2134
+E12000005,West Midlands,region,2022-12-19,90+,10400.5,1771
+E12000006,East of England,region,2022-12-19,0_to_4,2.7,5
+E12000006,East of England,region,2022-12-19,5_to_9,1.0,2
+E12000006,East of England,region,2022-12-19,10_to_14,0.5,1
+E12000006,East of England,region,2022-12-19,15_to_19,1.2,2
+E12000006,East of England,region,2022-12-19,20_to_24,5.8,10
+E12000006,East of England,region,2022-12-19,25_to_29,10.7,20
+E12000006,East of England,region,2022-12-19,30_to_34,13.8,27
+E12000006,East of England,region,2022-12-19,35_to_39,15.4,30
+E12000006,East of England,region,2022-12-19,40_to_44,42.7,82
+E12000006,East of England,region,2022-12-19,45_to_49,62.4,127
+E12000006,East of England,region,2022-12-19,50_to_54,101.7,221
+E12000006,East of England,region,2022-12-19,55_to_59,174.1,367
+E12000006,East of England,region,2022-12-19,60_to_64,221.1,394
+E12000006,East of England,region,2022-12-19,65_to_69,563.7,872
+E12000006,East of England,region,2022-12-19,70_to_74,698.2,1127
+E12000006,East of England,region,2022-12-19,75_to_79,1377.4,1553
+E12000006,East of England,region,2022-12-19,80_to_84,2571.3,2007
+E12000006,East of England,region,2022-12-19,85_to_89,4888.7,2209
+E12000006,East of England,region,2022-12-19,90+,9639.3,2066
+E12000007,London,region,2022-12-19,0_to_4,1.6,5
+E12000007,London,region,2022-12-19,5_to_9,0.3,1
+E12000007,London,region,2022-12-19,10_to_14,1.1,3
+E12000007,London,region,2022-12-19,15_to_19,7.4,18
+E12000007,London,region,2022-12-19,20_to_24,7.4,21
+E12000007,London,region,2022-12-19,25_to_29,6.3,24
+E12000007,London,region,2022-12-19,30_to_34,13.4,57
+E12000007,London,region,2022-12-19,35_to_39,18.7,76
+E12000007,London,region,2022-12-19,40_to_44,35.3,123
+E12000007,London,region,2022-12-19,45_to_49,59.0,179
+E12000007,London,region,2022-12-19,50_to_54,137.0,387
+E12000007,London,region,2022-12-19,55_to_59,247.7,617
+E12000007,London,region,2022-12-19,60_to_64,366.8,726
+E12000007,London,region,2022-12-19,65_to_69,795.7,1202
+E12000007,London,region,2022-12-19,70_to_74,1055.9,1375
+E12000007,London,region,2022-12-19,75_to_79,1972.8,1730
+E12000007,London,region,2022-12-19,80_to_84,3231.4,2121
+E12000007,London,region,2022-12-19,85_to_89,5549.9,2112
+E12000007,London,region,2022-12-19,90+,8612.2,1763
+E12000008,South East,region,2022-12-19,0_to_4,1.1,3
+E12000008,South East,region,2022-12-19,5_to_9,0.7,2
+E12000008,South East,region,2022-12-19,10_to_14,1.7,5
+E12000008,South East,region,2022-12-19,15_to_19,3.4,9
+E12000008,South East,region,2022-12-19,20_to_24,4.3,12
+E12000008,South East,region,2022-12-19,25_to_29,6.5,18
+E12000008,South East,region,2022-12-19,30_to_34,9.6,26
+E12000008,South East,region,2022-12-19,35_to_39,16.4,46
+E12000008,South East,region,2022-12-19,40_to_44,21.4,61
+E12000008,South East,region,2022-12-19,45_to_49,41.8,128
+E12000008,South East,region,2022-12-19,50_to_54,77.1,249
+E12000008,South East,region,2022-12-19,55_to_59,124.7,392
+E12000008,South East,region,2022-12-19,60_to_64,195.4,512
+E12000008,South East,region,2022-12-19,65_to_69,450.3,1003
+E12000008,South East,region,2022-12-19,70_to_74,630.8,1454
+E12000008,South East,region,2022-12-19,75_to_79,1256.0,2038
+E12000008,South East,region,2022-12-19,80_to_84,2308.6,2581
+E12000008,South East,region,2022-12-19,85_to_89,4386.1,2830
+E12000008,South East,region,2022-12-19,90+,8248.2,2728
+E12000009,South West,region,2022-12-19,0_to_4,2.7,4
+E12000009,South West,region,2022-12-19,5_to_9,1.8,3
+E12000009,South West,region,2022-12-19,10_to_14,0.0,0
+E12000009,South West,region,2022-12-19,15_to_19,0.6,1
+E12000009,South West,region,2022-12-19,20_to_24,5.7,10
+E12000009,South West,region,2022-12-19,25_to_29,2.9,5
+E12000009,South West,region,2022-12-19,30_to_34,10.1,17
+E12000009,South West,region,2022-12-19,35_to_39,17.9,29
+E12000009,South West,region,2022-12-19,40_to_44,22.4,35
+E12000009,South West,region,2022-12-19,45_to_49,35.7,62
+E12000009,South West,region,2022-12-19,50_to_54,59.3,115
+E12000009,South West,region,2022-12-19,55_to_59,89.7,176
+E12000009,South West,region,2022-12-19,60_to_64,118.2,204
+E12000009,South West,region,2022-12-19,65_to_69,314.3,493
+E12000009,South West,region,2022-12-19,70_to_74,420.4,693
+E12000009,South West,region,2022-12-19,75_to_79,906.9,1061
+E12000009,South West,region,2022-12-19,80_to_84,1632.7,1277
+E12000009,South West,region,2022-12-19,85_to_89,3214.7,1432
+E12000009,South West,region,2022-12-19,90+,6725.4,1450
