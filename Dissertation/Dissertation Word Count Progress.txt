@@ -1,0 +1,5 @@
+Dissertation Word Count Progress
+Introduction - 923 words
+Literature Review - 2413 words
+Requirements Analysis - 1772 words
+Design and Methodology - 2010 words

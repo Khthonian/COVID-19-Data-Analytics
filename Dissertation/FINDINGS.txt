@@ -1,0 +1,38 @@
+FINDINGS
+
+- Peaks
+-- 2022 1 4 - New Years
+-- 2021 12 29 - Christmas
+-- 2020 12 27 - Christmas
+-- 2021 1 4 - New Years
+-- 2021 9 27
+-- 2021 7 19
+-- All correlate with school holiday periods
+
+-- 2022 3 22 - Omicron BA 4, 5
+-- 2021 10 18 - Omicron BA 1, 2
+
+- Death Peaks
+-- 2020 4 9
+-- 2021 1 20
+-- 2020 3 21
+-- 2021 2 1
+-- 2020 12 31
+
+-- General Cases has issues with values causing misinfo about peaks. Speak about how it doesn't line up with WHO data.
+
+- Highest peaks were experienced by the London, North West, and South East regions
+
+- Younger age groups exhibited sharper increases in cases, correlating with the start and the end of the school term, while older age groups displayed a steadier increase.
+
+- There appears to be negligible difference between the male and female plots, inferring sex does not have an effect.
+
+- Despite the peak with Omicron, there was not an identified peak in deaths, inferring the variant is not deadly.
+
+- The most significant period for reinfections was New Years of 2022; the spike seen here was orders of magnitudes larger than what was seen prior. No similar peak was seen again. The other peaks were around Omicron, Christmas, other New Years, and the summer break.
+
+- Alpha appears to be the most deadly variant
+
+- Across all plots, older age groups exhibited more significant peaks although this can be accounted for by the significantly lower population.
+
+- Relationship to region is apparent but age is not as clear.
